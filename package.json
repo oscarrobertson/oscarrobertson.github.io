@@ -1,0 +1,22 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "\"# oscarrobertson.github.io\"",
+  "main": "lib/memebot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarrobertson/oscarrobertson.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarrobertson/oscarrobertson.github.io/issues"
+  },
+  "homepage": "https://github.com/oscarrobertson/oscarrobertson.github.io#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
+}
